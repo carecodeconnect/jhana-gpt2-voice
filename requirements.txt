@@ -1,0 +1,6 @@
+numpy
+openai_whisper
+streamlit
+torch
+transformers
+TTS
